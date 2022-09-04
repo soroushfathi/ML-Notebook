@@ -11,10 +11,9 @@ my machine learning notebook for practice machine learning, titles wrote in file
   <dd>- KNearestNeighbors</dd>
   <dt>Classification</dt>
   <dt>Linear Regression</dt>
-  <li>- Ridge (for Regression and classification)</li>
-  <li>- Lasso (for Regression)</li>
-  <li>- Elastic Net (for Regression)</li>
-  
+  <dd>- Ridge (for Regression and classification)</dd>
+  <dd>- Lasso (for Regression)</dd>
+  <dd>- Elastic Net (for Regression)</dd>
 </dl>
 
 ## UnSupervised Learning Algorithms:
