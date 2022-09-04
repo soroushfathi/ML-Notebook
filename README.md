@@ -9,7 +9,6 @@ my machine learning notebook for practice machine learning, titles wrote in file
   <dd>- </dd>
   <dt>Classification</dt>
   <dd>- KNearestNeighbors</dd>
-  <dt>Classification</dt>
   <dt>Linear Regression</dt>
   <dd>- Ridge (for Regression and classification)</dd>
   <dd>- Lasso (for Regression)</dd>
